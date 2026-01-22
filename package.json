@@ -1,0 +1,15 @@
+{
+  "name": "miden-bot",
+  "version": "1.0.0",
+  "description": "Automated Miden Faucet Claimer",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "chalk": "^5.3.0",
+    "playwright": "^1.41.0"
+  }
+}
