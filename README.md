@@ -16,8 +16,8 @@ A sophisticated, terminal-based automation tool for the Miden Testnet Faucet.
 **Clone the Repository**
 
 ```Bash
-git clone https://github.com/YOUR_USERNAME/miden-faucet-bot.git
-cd miden-faucet-bot
+git clone https://github.com/Chupii37/Miden.git
+cd Miden
 ```
 **Install Dependencies**
 ```Bash
