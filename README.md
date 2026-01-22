@@ -66,4 +66,4 @@ The "Syntax Sugar" Frappé: Pure sweetness, zero nutritional value, but makes th
 
 Deprecation Decaf: (Please don't buy this, it's just sad water).
 
-[https://saweria.co/chupii]
+[Buy me a coffee☕](https://saweria.co/chupii)
